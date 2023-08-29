@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Şenoğlu</h1>
 <h3 align="center">A passionate CSE student and Full Stack Developer from Türkiye</h3>
 
-- 💬 Ask me about **flutter,react,java,c#,python**
+- 💬 Ask me about **Flutter,Python,Java,JavaScript**
 
 - 📫 How to reach me **https://furkan-senoglu.netlify.app/**
 
